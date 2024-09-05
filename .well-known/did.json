@@ -15,7 +15,7 @@
             "id": "did:web:AvinashRavte07.github.io#key-1",
             "type": "Ed25519VerificationKey2018",
             "controller": "did:web:AvinashRavte07.github.io",
-            "publicKeyBase58": "8enMvTnPb2wQbguGQoDsdoVSzLVgYedMyycTVitWWn7x"
+            "publicKeyBase58": "FTxTy5KmAM7zcv2SCccWzaqo6WY7FtvwFw9F9KLBX7N"
         }
     ]
 }
